@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.dll
+*.log
+*.suo
+*.user
+*.vcxproj.user
+*.cache
+bin/
+obj/
